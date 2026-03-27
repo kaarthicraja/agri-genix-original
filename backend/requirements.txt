@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+flask-cors
+bcrypt
+psycopg2-binary
+gunicorn
+prophet
+scikit-learn
+pandas
+apscheduler
+joblib
